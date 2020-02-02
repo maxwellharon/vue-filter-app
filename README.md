@@ -1,6 +1,6 @@
 # Filter App with Vue Js
 
-A simple Vue js filtering application. This repo is for the tutorial of building a Simple filtering app with Vue js on Medium by John Ayeni
+A simple Vue js filtering application.
 
 ## Build Setup
 
